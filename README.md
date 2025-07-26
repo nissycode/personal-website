@@ -1,5 +1,5 @@
 # Personal Website
-
+p.s. : it is my first time working on a personal project, this was all just a practice and a template
 ## Overview
 This project is a personal website that serves as an online portfolio or informational site. It includes multiple pages such as a homepage, an about page, and a contact page.
 
